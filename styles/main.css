@@ -10,24 +10,63 @@ p {
 }
 
 /* TODO: size images manually so this is not necessary */
+
+.flex-container  {
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start;
+  margin: 3rem 0 0 3rem;
+  align-items: flex-end;
+}
+
+ul  {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  justify-content: space-around;
+  background-color: beige;
+  margin-top: 1rem;
+}
+
+li {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: .5rem;
+}
+
+a  {
+  text-decoration: none;
+  color: black;
+}
+
+/* Set image to width of container 100% */
 img {
-  max-height: 20rem;
+  max-width: 100%;
 }
 
 /***************** NAV *****************/
 
 nav a:hover {
-  text-decoration: underline;
+  color: silver;
 }
 
 /**************** HERO *****************/
 
-header img {
-  max-height: 6rem;
+.cat {
+  max-height: 8rem;
 }
 
 h1 .logo-w {
-  font-size: 3.5rem;
+  font-size: 4rem;
+  font-family: 'Berkshire Swash', cursive;
+  color: green;
+}
+h1  {
+  margin-left: 3rem;
+}
+h2  {
+  font-family: 'Berkshire Swash', cursive;
 }
 
 /**************** ASIDE ****************/
@@ -39,6 +78,10 @@ input[type="submit"] {
   border-radius: 5px;
   font-size: .75rem;
   color: white;
+}
+
+aside  {
+  margin: .5rem 0 0 3rem;
 }
 
 /*********** PRODUCTS SECTION ***********/
@@ -98,3 +141,4 @@ h3 {
 	.col {  margin: 1% 0 1% 0%; }
 	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
 }
+
