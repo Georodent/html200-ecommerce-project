@@ -28,7 +28,7 @@ ul  {
   margin-top: 1rem;
 }
 
-li {
+li  {
   font-family: 'Berkshire Swash', cursive;
   font-size: 1.5rem;
   font-weight: bold;
@@ -41,13 +41,13 @@ a  {
 }
 
 /* Set image to width of container 100% */
-img {
+img  {
   max-width: 100%;
 }
 
 /***************** NAV *****************/
 
-nav a:hover {
+nav a:hover  {
   color: silver;
 }
 
@@ -62,6 +62,7 @@ h1 .logo-w {
   font-family: 'Berkshire Swash', cursive;
   color: green;
 }
+
 h1  {
   margin-left: 3rem;
 }
@@ -102,19 +103,23 @@ h3 {
   text-align: center;
   color: #2d2d2d;
 }
+
+/* Bootstrap grid 1 of 4 installed on modules */
+
 /*  SECTIONS  */
 .section {
-	clear: both;
-	padding: 0px;
-	margin: 0px;
+  clear: both;
+  padding: 0px;
+  margin: 0px;
 }
 
 /*  COLUMN SETUP  */
 .col {
-	display: block;
-	float:left;
-	margin: 1% 0 1% 1.6%;
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
 }
+
 .col:first-child { margin-left: 0; }
 
 /*  GROUPING  */
