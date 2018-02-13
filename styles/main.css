@@ -8,6 +8,7 @@ p {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-weight: lighter;
   color: #2d2d2d;
+  text-align: center;
 }
 
 /* TODO: size images manually so this is not necessary */
@@ -56,6 +57,9 @@ nav a:hover  {
 
 .cat {
   max-height: 8rem;
+  border: 1px solid black;
+  padding: .5em;
+  background-color: green;
 }
 
 h1 .logo-w {
