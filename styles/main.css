@@ -1,7 +1,7 @@
 body {
   font-size: 100%;
   font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
-  
+  background: linear-gradient(#E5E7E9, grey);
 }
 
 p {
