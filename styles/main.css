@@ -83,7 +83,7 @@ h1  {
 h2  {
   font-family: 'Berkshire Swash', cursive;
   margin: 0 0 1em 0;
-  
+  text-shadow: 1px 1px 1px green;
 }
 
 /**************** ASIDE ****************/
@@ -166,23 +166,19 @@ h3 {
 	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
 }
 
-/*This makes the image centered in grid, and collapses header to fit centered. */
+/*This makes the image centered in grid, and collapses header to fit centered and wrap. Also changes background color of body with max width 480px*/
 @media (max-width: 480px) {
-    section img  {
-                width: 100%;
-                margin: auto;}
-    .flex-container  {
-                display: flex;
-                flex-flow: row wrap;
-                justify-content: center;
-                align-items: center;
-                margin: auto;
-                width: 100%;}
-    .cat       {margin-top: 1rem;}
-    body       {background: #C6DAE5;}
-    nav        {width: 100%;}
+  section img  {
+    width: 100%;
+    margin: auto;}
+  .flex-container  {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;}
+  .cat  {margin-top: 1rem;}
+  body  {background: #C6DAE5;}
+  nav   {width: 100%;}
 }
-
-  
-
-
