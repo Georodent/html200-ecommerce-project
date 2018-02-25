@@ -52,3 +52,11 @@ var products = [
   }
 ]
 
+//  Added capture for email submit
+function capture(){
+  event.preventDefault()
+  console.log("form submitted")
+  var emailAdd = document.custInfo.email.value
+  console.log("Thanks for signing up to our mailing list " + emailAdd)
+  alert("You're all signed up " + emailAdd)
+}

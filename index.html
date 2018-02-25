@@ -4,7 +4,8 @@
   <title>Winter Scarves</title>
 
   <meta charset="utf-8">
-  
+  <meta name="viewport"
+  content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet">
   <link rel="stylesheet" href="styles/reset.css">
   <link rel="stylesheet" href="styles/main.css">
@@ -45,9 +46,9 @@
   
   <main>
     <aside>
-      <form>
+      <form name="custInfo" onsubmit="capture()">
         <label>Sign up for our mailing list:
-          <input type="email" name="email">
+          <input type="text" name="email">
         </label>
 
         <input type="submit" value="Submit">
