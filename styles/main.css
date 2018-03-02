@@ -123,6 +123,11 @@ h3 {
   text-decoration: underline;
 }
 
+.price  {
+  color: turquoise;
+  border: 1px solid black;
+}
+
 /* Bootstrap grid 1 of 4 installed on modules */
 
 /*  SECTIONS  */
@@ -181,4 +186,5 @@ h3 {
   .cat  {margin-top: 1rem;}
   body  {background: #C6DAE5;}
   nav   {width: 100%;}
+  .price {color: red;}
 }
