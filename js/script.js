@@ -63,9 +63,14 @@ function capture(){
 
 var cart = []
 function updateCart(name) {
-  event.preventDefault()
+  var i = cart.indexOf(name)
+  if (i == -1) {
   cart.push(name)
   console.log(cart.length +'' + name)
+} else {
+  cart.pop(name)
+  console.log(cart.length)
+}
 }
 
 
