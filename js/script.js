@@ -61,18 +61,29 @@ function capture(){
   alert("You're all signed up " + emailAdd)
 }
 
+
+// Adds and removes items from cart
 var cart = []
 function updateCart(name) {
   var i = cart.indexOf(name)
   if (i == -1) {
   cart.push(name)
-  console.log(cart.length +'' + name)
+  console.log(cart.length +' ' + name)
 } else {
   cart.pop(name)
-  console.log(cart.length)
+  console.log(cart.length+ " " + name)
 }
 }
 
+// Shows what's in cart onclick cart symbol
+
+function inCart(){
+  if(cart == 0){
+    console.log("Cart is empty!")
+  }  else {
+    console.log(cart)
+  }
+}
 
 
 

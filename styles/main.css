@@ -41,6 +41,10 @@ li  {
   padding: .5rem;
 
 }
+.cart  {
+  font-family: 'Berkshire Swash', cursive;
+  margin-top: -1em;
+}
 
 a  {
   text-decoration: none;
