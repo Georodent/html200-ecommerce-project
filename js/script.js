@@ -60,3 +60,14 @@ function capture(){
   console.log("Thanks for signing up to our mailing list " + emailAdd)
   alert("You're all signed up " + emailAdd)
 }
+
+var cart = []
+function updateCart(name) {
+  event.preventDefault()
+  cart.push(name)
+  console.log(cart.length +'' + name)
+}
+
+
+
+
