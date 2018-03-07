@@ -70,7 +70,7 @@ function updateCart(name) {
   cart.push(name)
   console.log(cart.length +' ' + name)
 } else {
-  cart.pop(name)
+  cart.splice(i, 1)
   console.log(cart.length+ " " + name)
 }
 }
