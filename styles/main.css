@@ -46,6 +46,10 @@ li  {
   margin-top: -1em;
 }
 
+button  {
+  border: 1px solid black;
+}
+
 a  {
   text-decoration: none;
   color: black;
