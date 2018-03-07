@@ -69,10 +69,10 @@ function updateCart(name) {
   if (i == -1) {
   cart.push(name)
   console.log(cart.length +' ' + name)
-} else {
+  }  else {
   cart.splice(i, 1)
   console.log(cart.length+ " " + name)
-}
+  }
 }
 
 // Shows what's in cart onclick cart symbol
