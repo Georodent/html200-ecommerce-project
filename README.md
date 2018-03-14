@@ -200,25 +200,25 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     ## RESPONSIVENESS TEST RESULTS BELOW
     
-    ----DEVICE/SCREEN SIZE----                               ----SUMMARY----
+    ----DEVICE/SCREEN SIZE=SUMMARY
     
-    24" DESKTOP/1920X1200                                    Looks good, font is a little too small
+    24" DESKTOP/1920X1200=                                    Looks good, font is a little too small
     
-    20" DESKTOP/1600X900                                     Good to go
+    20" DESKTOP/1600X900=                                    Good to go
     
-    10" DESKTOP/1024X600                                     Good to go
+    10" DESKTOP/1024X600=                                     Good to go
     
-    APPLE IPAD MINI/768X1024                                 Looks good, buttons for add/remove too small
+    APPLE IPAD MINI/768X1024=                                 Looks good, buttons for add/remove too small
     
-    NEXUS 9/ 1024X765                                        Good to go
+    NEXUS 9/ 1024X765=                                        Good to go
     
-    APPLE IPHONE3,4,4S/ 320X480                              ALL MOBILE, GOOD TO GO!
+    APPLE IPHONE3,4,4S/ 320X480=                              
     
-    SAMSUNG GALAXY S5, S6, S7/ 360X640
+    SAMSUNG GALAXY S5, S6, S7/ 360X640=
     
-    GOOGLE PIXEL/ 411X731
+    GOOGLE PIXEL/ 411X731=ALL MOBILE, GOOD TO GO!
     
-    ---Tests were done using following websites:
+    ## Tests were done using following websites:
     
     https://tools.pingdom.com/   PINGDOM
     
