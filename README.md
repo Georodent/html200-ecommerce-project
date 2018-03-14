@@ -158,41 +158,29 @@ Each weekly assignment will be graded independently. There will not be a final g
     ##  SPEED TESTS BELOW
     Site tested on PINGDOM
     
-    Test results from SAN JOSE, CA:
+    *Test results from SAN JOSE, CA:
     
-    PERFORMANCE GRADE:  B (89)
+    PERFORMANCE GRADE:  B (89).
+    LOAD TIME: 1.30s.
+    FASTER THAN: 83% of tested sites.
+    PAGE SIZE: 897.7kb.
+    REQUEST: 19.
     
-    LOAD TIME: 1.30s
+    *Test results from NEW YORK CITY, NY:
     
-    FASTER THAN: 83% of tested sites-
+    PERFOMANCE GRADE: B (89).
+    LOAD TIME: 1.20 s.
+    FASTER THAN: 85% of tested sites.
+    PAGE SIZE: 794.5kb.
+    REQUEST: 19.
     
-    PAGE SIZE: 897.7kb
+    *Test results from MELBOURNE, AU:
     
-    REQUEST: 19
-    
-    Test results from NEW YORK CITY, NY:
-    
-    PERFOMANCE GRADE: B (89)
-    
-    LOAD TIME: 1.20 s
-    
-    FASTER THAN: 85% of tested sites
-    
-    PAGE SIZE: 794.5kb
-    
-    REQUEST: 19
-    
-    Test results from MELBOURNE, AU:
-    
-    PERFORMANCE GRADE: B (89)
-    
-    LOAD TIME: 3.17s
-    
-    FASTER THAN: 50% of tested sites
-    
-    PAGE SIZE: 897.9kb
-    
-    REQUEST: 19
+    PERFORMANCE GRADE: B (89).
+    LOAD TIME: 3.17s.
+    FASTER THAN: 50% of tested sites.
+    PAGE SIZE: 897.9kb.
+    REQUEST: 19.
     
     *ALL AREAS TESTED FOR LEVERAGE BROWSER CACHING AND RECIEVED "F"
     
