@@ -216,8 +216,8 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     NEXUS 9/1024X765=                                        Good to go
     
-    APPLE IPHONE 3,4,4S/320X480=                                                                                                          
-    SAMSUNG GALAXY S5, S6, S7/ 360X640=                                                                                                      
+    APPLE IPHONE 3,4,4S/320X480                                                                                                          
+    SAMSUNG GALAXY S5, S6, S7/ 360X640                                                                                                      
     GOOGLE PIXEL/ 411X731= *ALL MOBILE, GOOD TO GO!*
     
     ## Tests were done using following websites:
