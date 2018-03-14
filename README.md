@@ -73,7 +73,7 @@ Each weekly assignment will be graded independently. There will not be a final g
 
 
 
-  ## Research for user base for Ecommerce Project BELOW---
+  ## Research for user base for Ecommerce Project
   
   
   # WHO
@@ -93,7 +93,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   - Learning Preference:                                 N/A/                                                         N/A
   
-  - Work Attributes/Type Of Career:                      Any/                                                          Low
+  - Work Attributes & Type Of Career:                      Any/                                                          Low
   
   - Expectations:                 Ease of use, simple transactions, and quality detailed description and pic/                           High
                                                                                  
@@ -124,19 +124,19 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   - Why users seek the content:                          Gifts, traveling, change of seasons/                          High
   
-  - Importance of content                               Clear descriptions, and high quality images/                         High
+  - Importance of content:                               Clear descriptions, and high quality images/                         High
                                                         
                                                         
-  - How they found page:                                 Google, other search engines, ads, or word of mouth/                       Low
+  - How they found page:                                 Google, other search engines, ads, or word of mouth/                       High
                                                         
                                                         
                                                       
   ## WHEN               
   
-  - When it's read:       Work breaks, free time, home, waiting rooms, Late nights when family is sleeping (for gifts)/                 Low
+  - When it's read:       Work breaks, free time, home, waiting rooms, late nights when family is sleeping (for gifts)/                 Low
                                                         
   
-                                               --------THIS ENDS USER RESEARCH---------
+                                               --------THIS ENDS USER BASE RESEARCH---------
     
     
     
@@ -158,25 +158,35 @@ Each weekly assignment will be graded independently. There will not be a final g
     ##  SPEED TESTS BELOW
     Site tested on PINGDOM
     
-    Test results from SAN JOSE, CA
+    Test results from SAN JOSE, CA:
     PERFORMANCE GRADE:  B (89)
+    
     LOAD TIME: 1.30s
-    FASTER THAN: 83% of tested sites
+    
+    FASTER THAN: 83% of tested sites-
+    
     PAGE SIZE: 897.7kb
+    
     REQUEST: 19
     
-    Test results from NEW YORK CITY, NY
+    Test results from NEW YORK CITY, NY:
     PERFOMANCE GRADE: B (89)
     LOAD TIME: 1.20 s
+    
     FASTER THAN: 85% of tested sites
+    
     PAGE SIZE: 794.5kb
+    
     REQUEST: 19
     
-    Test results from MELBOURNE, AU
+    Test results from MELBOURNE, AU:
     PERFORMANCE GRADE: B (89)
     LOAD TIME: 3.17s
+    
     FASTER THAN: 50% of tested sites
+    
     PAGE SIZE: 897.9kb
+    
     REQUEST: 19
     
     *ALL AREAS TESTED FOR LEVERAGE BROWSER CACHING AND RECIEVED "F"
@@ -200,7 +210,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     ## RESPONSIVENESS TEST RESULTS BELOW
     
-    ----DEVICE/SCREEN SIZE=SUMMARY
+    DEVICE/SCREEN SIZE=SUMMARY
     
     24" DESKTOP/1920X1200=                                    Looks good, font is a little too small
     
@@ -213,9 +223,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     NEXUS 9/ 1024X765=                                        Good to go
     
     APPLE IPHONE3,4,4S/ 320X480=                              
-    
     SAMSUNG GALAXY S5, S6, S7/ 360X640=
-    
     GOOGLE PIXEL/ 411X731=ALL MOBILE, GOOD TO GO!
     
     ## Tests were done using following websites:
