@@ -168,7 +168,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     *Test results from NEW YORK CITY, NY:
     
-    PERFOMANCE GRADE: B (89).
+    PERFORMANCE GRADE: B (89).
     LOAD TIME: 1.20 s.
     FASTER THAN: 85% of tested sites.
     PAGE SIZE: 794.5kb.
@@ -214,11 +214,11 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     APPLE IPAD MINI/768X1024=                                 Looks good, buttons for add/remove too small
     
-    NEXUS 9/ 1024X765=                                        Good to go
+    NEXUS 9/1024X765=                                        Good to go
     
-    APPLE IPHONE3,4,4S/ 320X480=                              
-    SAMSUNG GALAXY S5, S6, S7/ 360X640=
-    GOOGLE PIXEL/ 411X731=ALL MOBILE, GOOD TO GO!
+    APPLE IPHONE 3,4,4S/320X480=                                                                                                          
+    SAMSUNG GALAXY S5, S6, S7/ 360X640=                                                                                                      
+    GOOGLE PIXEL/ 411X731= *ALL MOBILE, GOOD TO GO!*
     
     ## Tests were done using following websites:
     
