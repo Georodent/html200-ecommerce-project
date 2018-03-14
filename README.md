@@ -76,7 +76,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   ## Research for user base for Ecommerce Project
   
   
-  # WHO
+  ## WHO
   ATTRIBUTE: CHARACTERISTIC & SCENARIOS/ IMPACT
 
   - Age and Age Groups:                                  All ages/                                                    Low
@@ -104,7 +104,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   
   
-  # HOW
+  ## HOW
   
   - What device:                                         Desktop, tablet, mobile/                                     High
   
@@ -112,7 +112,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   
   
-  # WHERE                         
+  ## WHERE                         
   
   - Users Location:                                      Regional, possible worldwide/                                 Med
   
@@ -120,7 +120,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   
   
-  # WHY 
+  ## WHY 
   
   - Why users seek the content:                          Gifts, traveling, change of seasons/                          High
   
@@ -159,6 +159,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     Site tested on PINGDOM
     
     Test results from SAN JOSE, CA:
+    
     PERFORMANCE GRADE:  B (89)
     
     LOAD TIME: 1.30s
@@ -170,7 +171,9 @@ Each weekly assignment will be graded independently. There will not be a final g
     REQUEST: 19
     
     Test results from NEW YORK CITY, NY:
+    
     PERFOMANCE GRADE: B (89)
+    
     LOAD TIME: 1.20 s
     
     FASTER THAN: 85% of tested sites
@@ -180,7 +183,9 @@ Each weekly assignment will be graded independently. There will not be a final g
     REQUEST: 19
     
     Test results from MELBOURNE, AU:
+    
     PERFORMANCE GRADE: B (89)
+    
     LOAD TIME: 3.17s
     
     FASTER THAN: 50% of tested sites
@@ -193,17 +198,18 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     ## PAGE SPEED INSIGHTS:
     (OPTIMIZATION SUGGESTIONS)
+    
     DESKTOP
-    1. OPTIMIZE IMAGES
-    2. ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
-    3. LEVERAGE BROWSER CACHING
-    4. MINIFY CSS
-    5. MINIFY JS
+    * OPTIMIZE IMAGES
+    * ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
+    * LEVERAGE BROWSER CACHING
+    * MINIFY CSS
+    * MINIFY JS
     
     MOBILE
-    1. ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
-    2. LEVERAGE BROWSER CACHING
-    3. OPTIMIZE IMAGES
+    * ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
+    * LEVERAGE BROWSER CACHING
+    * OPTIMIZE IMAGES
     
     
     
