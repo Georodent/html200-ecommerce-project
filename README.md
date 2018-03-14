@@ -73,67 +73,68 @@ Each weekly assignment will be graded independently. There will not be a final g
 
 
 
-  # Research for user base for Ecommerce Project BELOW---
+  ## Research for user base for Ecommerce Project BELOW---
   
   
-  # WHO                                                 # CHARACTERISTICS AND SCENARIOS                              #IMPACT
+  # WHO
+  ATTRIBUTE: CHARACTERISTIC & SCENARIOS/ IMPACT
 
-  - Age and Age Groups                                  All ages.                                                    Low
+  - Age and Age Groups:                                  All ages/                                                    Low
   
-  - Personal Life-style                                 Skiers (and the like), People who live in cold               Low
-                                                        Regions.
+  - Personal Life-style:                                 Skiers (and the like), People who live in cold Regions/              Low
                                                         
-  - Gender                                              Both, in equal numbers                                       Low
+                                                        
+  - Gender:                                              Both, in equal numbers/                                       Low
   
-  - Language                                            English first, Mongolian, Estonian, Finnish,                 Low
-                                                        Swedish, and Russian. 
+  - Language:                                            English first, Mongolian, Estonian, Finnish, Swedish, and Russian/                Low
+                                                         
   
-  - Education                                           Any or none                                                  Low
+  - Education:                                          Any or none/                                                  Low
   
-  - Learning Preference                                 N/A                                                          N/A
+  - Learning Preference:                                 N/A/                                                         N/A
   
-  - Work Attributes/Type Of Career                      Any                                                          Low
+  - Work Attributes/Type Of Career:                      Any/                                                          Low
   
-  - Expectations                                        Ease of use, simple transactions,                            High
-                                                        and quality detailed description and pic                         
+  - Expectations:                 Ease of use, simple transactions, and quality detailed description and pic/                           High
+                                                                                 
                                                       
-  - Existing Knowledge                                  Personal taste mostly                                        Low
+  - Existing Knowledge:                                 Personal taste mostly/                                        Low
   
-  - Web and Computer Exp.                               Low                                                          Low
+  - Web and Computer Experience:                               Low/                                                          Low
   
   
   
   # HOW
   
-  - What device                                         Desktop, tablet, mobile                                      High
+  - What device:                                         Desktop, tablet, mobile/                                     High
   
-  - Connection speed                                    Standard broadband                                           Med
+  - Connection speed:                                    Standard broadband/                                           Med
   
   
   
   # WHERE                         
   
-  - Users Location                                      Regional, possible worldwide                                 Med
+  - Users Location:                                      Regional, possible worldwide/                                 Med
   
-  - Place where page is read                            Work, home, office, on the go                                Low
+  - Place where page is read:                            Work, home, office, on the go/                                Low
   
   
   
   # WHY 
   
-  - Why users seek the content                          Gifts, traveling, change of seasons                          High
+  - Why users seek the content:                          Gifts, traveling, change of seasons/                          High
   
-  - Importance of content                               Clear descriptions, and high quality                         High
-                                                        images.
+  - Importance of content                               Clear descriptions, and high quality images/                         High
                                                         
-  - How they found page                                 Google, other search engines, ads, or                        Low
-                                                        word of mouth.
+                                                        
+  - How they found page:                                 Google, other search engines, ads, or word of mouth/                       Low
+                                                        
                                                         
                                                       
-  # WHEN               
+  ## WHEN               
   
-  - When it's read                                      Work breaks, free time, home, waiting rooms,                 Low
-                                                        Late nights when family is sleeping (for gifts)
+  - When it's read:       Work breaks, free time, home, waiting rooms, Late nights when family is sleeping (for gifts)/                 Low
+                                                        
   
                                                --------THIS ENDS USER RESEARCH---------
     
@@ -141,7 +142,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     
     
-    #  BROWSER TEST RESULTS BELOW
+    ##  BROWSER TEST RESULTS BELOW
     
     CHROME- Everything works and looks good, responsive. No errors.
     
@@ -154,7 +155,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     
     
-    #  SPEED TESTS BELOW
+    ##  SPEED TESTS BELOW
     Site tested on PINGDOM
     
     Test results from SAN JOSE, CA
@@ -180,7 +181,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     *ALL AREAS TESTED FOR LEVERAGE BROWSER CACHING AND RECIEVED "F"
     
-    # PAGE SPEED INSIGHTS:
+    ## PAGE SPEED INSIGHTS:
     (OPTIMIZATION SUGGESTIONS)
     DESKTOP
     1. OPTIMIZE IMAGES
@@ -197,19 +198,24 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     
     
-    # RESPONSIVENESS TEST RESULTS BELOW
+    ## RESPONSIVENESS TEST RESULTS BELOW
     
     ----DEVICE/SCREEN SIZE----                               ----SUMMARY----
     
     24" DESKTOP/1920X1200                                    Looks good, font is a little too small
+    
     20" DESKTOP/1600X900                                     Good to go
+    
     10" DESKTOP/1024X600                                     Good to go
     
     APPLE IPAD MINI/768X1024                                 Looks good, buttons for add/remove too small
+    
     NEXUS 9/ 1024X765                                        Good to go
     
     APPLE IPHONE3,4,4S/ 320X480                              ALL MOBILE, GOOD TO GO!
+    
     SAMSUNG GALAXY S5, S6, S7/ 360X640
+    
     GOOGLE PIXEL/ 411X731
     
     ---Tests were done using following websites:
