@@ -66,12 +66,12 @@ function capture(){
 var cart = []
 function updateCart(name) {
   var i = cart.indexOf(name)
-  if (i == -1) {
-  cart.push(name)
-  console.log(cart.length +' ' + name)
-  }  else {
-  cart.splice(i, 1)
-  console.log(cart.length+ " " + name)
+  if(i == -1) {
+    cart.push(name)
+    console.log(cart.length +' ' + name)
+  } else {
+    cart.splice(i, 1)
+    console.log(cart.length+ " " + name)
   }
 }
 
@@ -79,9 +79,9 @@ function updateCart(name) {
 
 function inCart(){
   if(cart == 0){
-    console.log("Cart is empty!")
+     console.log("Cart is empty!")
   }  else {
-    console.log(cart)
+     console.log(cart)
   }
 }
 

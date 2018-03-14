@@ -70,3 +70,160 @@ Each weekly assignment will be graded independently. There will not be a final g
 
 ## Testing
 [update this section with information about the testing steps you took to ensure site quality]
+
+
+
+  ---Research for user base for Ecommerce Project BELOW---
+  
+  
+  ---WHO---                                            ---CHARACTERISTICS AND SCENARIOS---                          ---IMPACT---
+
+  - Age and Age Groups                                  All ages.                                                    Low
+  
+  - Personal Life-style                                 Skiers (and the like), People who live in cold               Low
+                                                        Regions.
+                                                        
+  - Gender                                              Both, in equal numbers                                       Low
+  
+  - Language                                            English first, Mongolian, Estonian, Finnish,                 Low
+                                                        Swedish, and Russian. 
+  
+  - Education                                           Any or none                                                  Low
+  
+  - Learning Preference                                 N/A                                                          N/A
+  
+  - Work Attributes/Type Of Career                      Any                                                          Low
+  
+  - Expectations                                        Ease of use, simple transactions,                            High
+                                                        and quality detailed description and pic                         
+                                                      
+  - Existing Knowledge                                  Personal taste mostly                                        Low
+  
+  - Web and Computer Exp.                               Low                                                          Low
+  
+  
+  
+  ---HOW---
+  
+  - What device                                         Desktop, tablet, mobile                                      High
+  
+  - Connection speed                                    Standard broadband                                           Med
+  
+  
+  
+  ---WHERE---                             
+  
+  - Users Location                                      Regional, possible worldwide                                 Med
+  
+  - Place where page is read                            Work, home, office, on the go                                Low
+  
+  
+  
+  ---WHY--- 
+  
+  - Why users seek the content                          Gifts, traveling, change of seasons                          High
+  
+  - Importance of content                               Clear descriptions, and high quality                         High
+                                                        images.
+                                                        
+  - How they found page                                 Google, other search engines, ads, or                        Low
+                                                        word of mouth.
+                                                        
+                                                      
+  ---WHEN---                
+  
+  - When it's read                                      Work breaks, free time, home, waiting rooms,                 Low
+                                                        Late nights when family is sleeping (for gifts)
+  
+                                               --------THIS ENDS USER RESEARCH---------
+    
+    
+    
+    
+    
+    -----BROWSER TEST RESULTS BELOW-----
+    
+    CHROME- Everything works and looks good, responsive. No errors.
+    
+  * FIREFOX-  Page looks good, responsive, mailing list submit has a reference error (EVENT IS NOT DEFINED).
+    
+    MICROSOFT EDGE- Everything works and looks good, responsive. No errors.
+    
+    INTERNET EXPLORER 11- Everything works, and looks good, responsive. No errors. 
+    
+    
+    
+    
+    ----SPEED TESTS BELOW----
+    Site tested on PINGDOM
+    
+    Test results from SAN JOSE, CA
+    PERFORMANCE GRADE:  B (89)
+    LOAD TIME: 1.30s
+    FASTER THAN: 83% of tested sites
+    PAGE SIZE: 897.7kb
+    REQUEST: 19
+    
+    Test results from NEW YORK CITY, NY
+    PERFOMANCE GRADE: B (89)
+    LOAD TIME: 1.20 s
+    FASTER THAN: 85% of tested sites
+    PAGE SIZE: 794.5kb
+    REQUEST: 19
+    
+    Test results from MELBOURNE, AU
+    PERFORMANCE GRADE: B (89)
+    LOAD TIME: 3.17s
+    FASTER THAN: 50% of tested sites
+    PAGE SIZE: 897.9kb
+    REQUEST: 19
+    
+    *ALL AREAS TESTED FOR LEVERAGE BROWSER CACHING AND RECIEVED "F"
+    
+    PAGE SPEED INSIGHTS:
+    (OPTIMIZATION SUGGESTIONS)
+    ----DESKTOP----
+    1. OPTIMIZE IMAGES
+    2. ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
+    3. LEVERAGE BROWSER CACHING
+    4. MINIFY CSS
+    5. MINIFY JS
+    
+    ----MOBILE---
+    1. ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
+    2. LEVERAGE BROWSER CACHING
+    3. OPTIMIZE IMAGES
+    
+    
+    
+    
+    ----RESPONSIVENESS TEST RESULTS BELOW----
+    
+    ----DEVICE/SCREEN SIZE----                               ----SUMMARY----
+    
+    24" DESKTOP/1920X1200                                    Looks good, font is a little too small
+    20" DESKTOP/1600X900                                     Good to go
+    10" DESKTOP/1024X600                                     Good to go
+    
+    APPLE IPAD MINI/768X1024                                 Looks good, buttons for add/remove too small
+    NEXUS 9/ 1024X765                                        Good to go
+    
+    APPLE IPHONE3,4,4S/ 320X480                              ALL MOBILE, GOOD TO GO!
+    SAMSUNG GALAXY S5, S6, S7/ 360X640
+    GOOGLE PIXEL/ 411X731
+    
+    ---Tests were done using following websites:
+    
+    https://tools.pingdom.com/   PINGDOM
+    
+    http://responsivedesignchecker.com/   RESPONSIVE WEB DESIGN CHECKER
+    
+    BROWSER TESTING DONE ON ACTUAL BROWSERS ON LAPTOP, AND DESKTOP (BOTH WINDOWS OPERATING SYSTEMS)
+    
+    https://developers.google.com/speed/pagespeed/insights/   PAGE SPEED TOOLS
+    
+    
+                                      ----END OF REPORT---- 
+                                      
+    
+    
