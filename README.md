@@ -73,10 +73,10 @@ Each weekly assignment will be graded independently. There will not be a final g
 
 
 
-  ---Research for user base for Ecommerce Project BELOW---
+  # Research for user base for Ecommerce Project BELOW---
   
   
-  ---WHO---                                            ---CHARACTERISTICS AND SCENARIOS---                          ---IMPACT---
+  # WHO                                                 # CHARACTERISTICS AND SCENARIOS                              #IMPACT
 
   - Age and Age Groups                                  All ages.                                                    Low
   
@@ -103,7 +103,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   
   
-  ---HOW---
+  # HOW
   
   - What device                                         Desktop, tablet, mobile                                      High
   
@@ -111,7 +111,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   
   
-  ---WHERE---                             
+  # WHERE                         
   
   - Users Location                                      Regional, possible worldwide                                 Med
   
@@ -119,7 +119,7 @@ Each weekly assignment will be graded independently. There will not be a final g
   
   
   
-  ---WHY--- 
+  # WHY 
   
   - Why users seek the content                          Gifts, traveling, change of seasons                          High
   
@@ -130,7 +130,7 @@ Each weekly assignment will be graded independently. There will not be a final g
                                                         word of mouth.
                                                         
                                                       
-  ---WHEN---                
+  # WHEN               
   
   - When it's read                                      Work breaks, free time, home, waiting rooms,                 Low
                                                         Late nights when family is sleeping (for gifts)
@@ -141,7 +141,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     
     
-    -----BROWSER TEST RESULTS BELOW-----
+    #  BROWSER TEST RESULTS BELOW
     
     CHROME- Everything works and looks good, responsive. No errors.
     
@@ -154,7 +154,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     
     
-    ----SPEED TESTS BELOW----
+    #  SPEED TESTS BELOW
     Site tested on PINGDOM
     
     Test results from SAN JOSE, CA
@@ -180,16 +180,16 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     *ALL AREAS TESTED FOR LEVERAGE BROWSER CACHING AND RECIEVED "F"
     
-    PAGE SPEED INSIGHTS:
+    # PAGE SPEED INSIGHTS:
     (OPTIMIZATION SUGGESTIONS)
-    ----DESKTOP----
+    DESKTOP
     1. OPTIMIZE IMAGES
     2. ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
     3. LEVERAGE BROWSER CACHING
     4. MINIFY CSS
     5. MINIFY JS
     
-    ----MOBILE---
+    MOBILE
     1. ELIMINATE RENDER BLOCKING JS AND CSS IN ABOVE-THE-FOLD CONTENT
     2. LEVERAGE BROWSER CACHING
     3. OPTIMIZE IMAGES
@@ -197,7 +197,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     
     
-    ----RESPONSIVENESS TEST RESULTS BELOW----
+    # RESPONSIVENESS TEST RESULTS BELOW
     
     ----DEVICE/SCREEN SIZE----                               ----SUMMARY----
     
