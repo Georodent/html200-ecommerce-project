@@ -69,7 +69,7 @@ Lesson 09:
 Each weekly assignment will be graded independently. There will not be a final grade for the entire project.
 
 ## Testing
-[update this section with information about the testing steps you took to ensure site quality]
+
 
 
 
@@ -144,7 +144,7 @@ Each weekly assignment will be graded independently. There will not be a final g
     
     ##  BROWSER TEST RESULTS BELOW
     
-    CHROME- Everything works and looks good, responsive. No errors.
+    Windows 8, 10 CHROME- Everything works and looks good, responsive. No errors.
     
   * FIREFOX-  Page looks good, responsive, mailing list submit has a reference error (EVENT IS NOT DEFINED).
     
